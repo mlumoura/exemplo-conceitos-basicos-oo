@@ -1,6 +1,7 @@
 package Poo.PooModel;
 
 public class Pessoa {
+
     private static final int TAMANHO_CPF = 11;  // Boas práticas
     private static final int TAMANHO_CNPJ = 14; // Boas práticas
 

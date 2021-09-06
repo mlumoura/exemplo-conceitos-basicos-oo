@@ -28,11 +28,5 @@ public class EntregaCartaoApp {
         } catch (Exception e) {
             System.err.println("Houve um erro ao adicionar endereço: " + e.getMessage());
         }
-
-
-
-
-
-
     }
 }
